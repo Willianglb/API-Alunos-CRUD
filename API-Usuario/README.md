@@ -25,8 +25,8 @@ Open http://localhost:3000 to view it in the browser)
 
 Login e Senha para testar o projeto:
 
-## "usuario": "claudio.peixoto"
-## "senha": "00000006"
+### "usuario": "claudio.peixoto"
+### "senha": "00000006"
 
 ## Learn More
 
